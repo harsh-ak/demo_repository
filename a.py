@@ -1,4 +1,14 @@
 def isIsomorphic(s,t):
+F
+F
+F
+F
+F
+F
+C
+
+
+
     d = {}
     for i in range(len(s)):
         if s[i] not in d:
