@@ -1,4 +1,5 @@
-# def minion_game(string):
+B
+000# def minion_game(string):
 #     vowels = 'AEIOU'
 #     Stuart_score, Kevin_score = 0, 0
 #     length = len(string)
