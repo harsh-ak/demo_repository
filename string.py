@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 
 baldev
 # def minion_game(string):
+=======
+jay edit
+454
+jayraj B
+000# def minion_game(string):
+>>>>>>> 8cce9781e6686c32498d2cb83c8e1c483ca8d5b0
 #     vowels = 'AEIOU'
 #     Stuart_score, Kevin_score = 0, 0
 #     length = len(string)
