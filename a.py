@@ -1,4 +1,4 @@
-def isIsomorphic(s,t):
+qqqdef isIsomorphic(s,t):
 F
 F
 F
